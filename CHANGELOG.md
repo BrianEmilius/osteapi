@@ -1,21 +1,17 @@
 # Changelog
 
-**1.1.0** - 20170907
+**1.1.0 - 20170908**
 
-Oprettet funktion: getOne
+Servicefunktioner for getAll og getOne oprettet.
 
-Oprettet funktion: getAll
+Dokumenteret funktioner med JSDoc.
 
-Funktioner dokumenteret med JSDoc
+Dokumenteret API i README.md.
 
-API dokumenteret i README.md
+Changelog påbegyndt.
 
-Changelog påbegyndt
+**1.0.0 - 20170906**
 
-**1.0.0** - 20170904
+Route for /cheeses oprettet.
 
-Server oprettet
-
-Routes modulariseret til enkeltfiler
-
-Routes benytter statiske objekter
+Route for /cheeses/\<varenummer> oprettet.
